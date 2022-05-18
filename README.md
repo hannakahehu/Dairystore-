@@ -1,2 +1,2 @@
-# Dairystore-
+# Dairystore
 Ecommerce-Store 
